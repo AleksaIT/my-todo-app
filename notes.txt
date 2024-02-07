@@ -1,0 +1,3 @@
+streamlit run webapp.py
+
+pip freeze > requirements.txt
